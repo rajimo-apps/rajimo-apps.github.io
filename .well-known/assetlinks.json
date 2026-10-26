@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.raul.calenzo",
+      "sha256_cert_fingerprints": [
+        "77:7B:37:18:71:75:37:60:13:2D:C0:63:6B:3D:C4:14:2C:18:D9:43:33:5C:95:84:4B:F9:A4:FE:EA:2F:C7:49",
+        "56:41:04:D1:78:FA:4C:3F:D3:08:F7:F7:2F:CA:46:0F:95:93:DB:3D:AF:AC:0C:2D:22:D5:70:B2:A6:05:BC:AF"
+      ]
+    }
+  }
+]
